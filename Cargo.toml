@@ -1,0 +1,12 @@
+[package]
+name = "wrat"
+version = "0.1.0"
+edition = "2021"
+description = "write bytes to a file"
+license = "MIT"
+keywords = ["fs", "cli"]
+categories = ["development-tools"]
+repository = "https://github.com/bend-n/wrat"
+
+[dependencies]
+comat = "0.1.3"
